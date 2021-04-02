@@ -1,4 +1,5 @@
 (My programs meet all functionality requirements, some points are off because I submitted them late, I get A- for this course)
+
 Welcome! This Syllabus for CS344, Operating Systems I, describes the materials, objectives, and the course policies that I expect us all to adhere to. For everything else, please refer to our course [Home Page](https://canvas.oregonstate.edu/courses/1738958/pages/home-page). It's required that you understand and know the information contained both on this Syllabus and our Home Page.
 
 **Subject Matter**
